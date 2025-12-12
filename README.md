@@ -35,7 +35,7 @@ Simulation of a flock of colored "boids" controlled by a state machine.
   - Left click outside bars → destroy boids  
 
 ## ⚙️ State Machine
-![State Machine](Boids+StateMachine/StateMachine.png)
+![State Machine](Boids+StateMachine/StateMachineBoids.png)
 The state machine in Boids + State Machine governs the behavior of each individual boid. Each boid dynamically switches between different states based on its environment and interactions:
 
 ATTRACT_COLOR: The boid is attracted to other boids of the same color and moves toward its designated color bar.
