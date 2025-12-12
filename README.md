@@ -97,4 +97,4 @@ python djikstra+AStar/djikstra+AStar.py
 - Didier Puzenat - My AI professor for whom I created this repo
 
 # 📄 License
-This software is under the Unlicense, terms of which are available in [UNLICENSE.txt](UNLICENSE.txt])
+This software is under the Unlicense, terms of which are available in [LICENSE](LICENSE)
