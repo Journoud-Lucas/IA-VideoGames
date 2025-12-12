@@ -91,3 +91,10 @@ pip install pygame
 python Boids+StateMachine/Boids+StateMachine.py
 python djikstra+AStar/djikstra+AStar.py
 ```
+
+# 🤝 Credits
+- [Journoud Lucas](https://github.com/Journoud-Lucas) - Has created the project
+- Didier Puzenat - My AI professor for whom I created this repo
+
+# 📄 License
+This software is under the Unlicense, terms of which are available in [UNLICENSE.txt](UNLICENSE.txt])
