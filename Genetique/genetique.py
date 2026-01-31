@@ -236,7 +236,7 @@ class GeneticAlgorithmSimulation:
         # State
         self.running = True
         self.paused = False
-        self.speed_multiplier = 15
+        self.speed_multiplier = 1
 
     def handle_events(self):
         for event in pygame.event.get():
